@@ -1,0 +1,53 @@
+/* Creado por Ángel Hernández Ortiz. Última modificación 19/12/18 */
+body {
+    background-color: #447E52;
+    font-family: sans-serif;
+    color: white;
+    font-size: 125%;
+}
+
+h1 {
+    text-shadow: black 5px 5px;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+
+p.tipo1 {
+    border: black 10px solid;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+}
+
+p.tipo2 {
+    border: #982113 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 51%; 
+    padding: 10px;
+    background-color: #C55023;
+}
+
+p.tipo3 {
+    border: #814E0B 15px solid;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    margin-left: 49%;
+    padding: 2px;
+    background-color: #CD8524;
+    text-align: justify;
+}
+
+p.tipo4 {
+    border: #4B75BC 5px dashed;
+    background-color: #322BDE;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    text-align: justify;
+}
